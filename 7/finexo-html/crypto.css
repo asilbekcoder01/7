@@ -1,0 +1,26 @@
+.main {
+    height: 400px;
+    gap: 15px;
+  }
+  .main h1 {
+    font-size: 2rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+  }
+  .main .form-control {
+    width: 700px;
+  }
+  .main .one {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+  .main .btn {
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
